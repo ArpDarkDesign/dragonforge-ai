@@ -20,7 +20,7 @@ A premium AI startup landing page built with React and Vite.
 
 ## Live Demo
 
-https://dragonforge-ai.vercel.app
+🚀 https://dragonforge-ai.vercel.app
 
 ## Installation
 
