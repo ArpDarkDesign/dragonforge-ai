@@ -12,7 +12,7 @@ DragonForge AI transforms raw fantasy concepts into cinematic dragons, style-con
 
 ## Preview
 
-![DragonForge Hero](./src/assests//hero.png)
+![DragonForge Hero](src/assets/dragons/hero.png)
 
 ---
 
